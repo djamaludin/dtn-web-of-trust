@@ -6,7 +6,7 @@ Matlab or the open source Octave. It simulates key exchange and distribution
 of Pretty Good Privacy (PGP) keys through a Web of Trust in an autonomous
 DTN.
 
-> **NOTE**
+> **NOTE** - 
 > DTN Web of Trust is no longer being developed.
 
 
