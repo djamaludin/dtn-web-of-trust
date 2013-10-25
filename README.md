@@ -13,9 +13,8 @@ DTN.
 Requirements and Dependencies
 -----------------------------
 
-DTN Web of Trust was developed on Matlab 7.12-7.13 (R2011a-R2011b) and on 
-Octave 3.2 and gnuplot. The simulator can be run in either of these 
-programs.
+DTN Web of Trust was developed on Matlab 7.12-7.13 (R2011a-R2011b), Octave 
+3.2, and gnuplot. The simulator can be run in either of these programs.
 
 
 Setting Up and Run Simulation
